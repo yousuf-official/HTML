@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*
+.main {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../images/Md.\ Yousuf\ Ali.jpg);
+  background-color: gray;
+  background-repeat: no-repeat;
+  background-size: 250px 250px;
+  background-position: 100% 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.main::before {
+  content: "This is Md Yousuf Ali";
+  width: max-content;
+  height: max-content;
+  margin: auto auto 25px;
+  border: 2px solid red;
+  padding: 10px 10px;
+}
+
+.pain {
+  width: 350px;
+  height: 250px;
+  background: green;
+  margin: auto;
+  display: flex;
+}
+
+.rain {
+  width: 250px;
+  height: 200px;
+  background: yellow;
+  margin: auto;
+  clip-path: polygon(0% 50%, 50% 0%, 100% 50%, 50% 100%);
+  display: flex;
+}
+
+.chain {
+  width: 100px;
+  height: 100px;
+  background: rgb(41, 9, 219);
+  border-radius: 50%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.gain {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 10px solid white;
+  margin-top: 45px;
+  margin-left: -76px;
+  margin-right: ;
+}
+*/
+
+.messi {
+  width: 100%;
+  height: 100vh;
+  background: green;
+  background-image: url(../images/Md.\ Yousuf\ Ali.jpg);
+  background-repeat: no-repeat;
+  background-size: 250px 250px;
+  background-position: 100% 100%;
+  display: flex;
+  flex-direction: column;
+}
